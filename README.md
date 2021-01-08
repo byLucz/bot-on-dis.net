@@ -1,4 +1,4 @@
-# TutorialBot
+# sblngavna bot
 
-to be updated
+wrote witl luv on discord.net
 

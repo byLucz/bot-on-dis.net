@@ -1,4 +1,4 @@
 # sblngavna bot
 
-wrote witl luv on discord.net
+wrote with luv on discord.net
 
